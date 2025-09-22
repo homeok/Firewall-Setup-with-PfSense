@@ -63,4 +63,7 @@ I'm adding 5 network adapters to correspond with the VMnet interfaces creating t
 
 
 
+<img width="1225" height="590" alt="Screenshot 2025-09-20 232015" src="https://github.com/user-attachments/assets/793b1dd8-3bce-448b-a340-b773a570e9e3" />
+
+
 
